@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **stewartyoung/stewartyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+```sh
+$ npm i @stewartyoung/cli
+⸨░░░░░░░░░⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⸩ ⠴ fetchMetadata: resolveWithNewModule @stewartyoung/cli@1.3.337
+
+ _______ _______ _______ ___ ___ _______ _______ _______  ___ ___ _______ ___ ___ ______  _______
+|   _   |       |   _   |   Y   |   _   |   _   |       ||   Y   |   _   |   Y   |   _  \|   _   |
+|   1___|.|   | |.  1___|.  |   |.  1   |.  l   |.|   | ||   1   |.  |   |.  |   |.  |   |.  |___|
+|____   `-|.  |-|.  __)_|. / \  |.  _   |.  _   `-|.  |-' \_   _/|.  |   |.  |   |.  |   |.  |   |
+|:  1   | |:  | |:  1   |:      |:  |   |:  |   | |:  |    |:  | |:  1   |:  1   |:  |   |:  1   |
+|::.. . | |::.| |::.. . |::.|:. |::.|:. |::.|:. | |::.|    |::.| |::.. . |::.. . |::.|   |::.. . |
+`-------' `---' `-------`--- ---`--- ---`--- ---' `---'    `---' `-------`-------`--- ---`-------'
+                                                                                                                            
+                 Full Stack Software Engineer • Northern Irish • Cricketer • Drummer and Music Lover
+
+❯ 🌎 Website           stewartyoung.co.uk
+❯ 📬 Email             stewartyoung97@gmail.com
+❯ 🐦 Twitter           @youngstew_
+```
+<!-- ❯ 👔 Résumé            https://bit.ly/2Q05ifr -->
