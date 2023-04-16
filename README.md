@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ```sh
 $ npm i @stewartyoung/cli
-⸨░░░░░░░░░⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⸩ ⠴ fetchMetadata: resolveWithNewModule @stewartyoung/cli@1.3.337
+⸨░░░░░░░░░⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⸩ ⠴ fetchMetadata: resolveWithNewModule @stewartyoung/cli@1.21.128
 
  _______ _______ _______ ___ ___ _______ _______ _______  ___ ___ _______ ___ ___ ______  _______
 |   _   |       |   _   |   Y   |   _   |   _   |       ||   Y   |   _   |   Y   |   _  \|   _   |
@@ -24,10 +24,11 @@ $ npm i @stewartyoung/cli
 |::.. . | |::.| |::.. . |::.|:. |::.|:. |::.|:. | |::.|    |::.| |::.. . |::.. . |::.|   |::.. . |
 `-------' `---' `-------`--- ---`--- ---`--- ---' `---'    `---' `-------`-------`--- ---`-------'
                                                                                                                             
-                 Full Stack Software Engineer • Northern Irish • Cricketer • Drummer and Music Lover
+          Full Stack Software Engineer • Northern Irish • Cricketer • Drummer and Music Lover
 
 ❯ 🌎 Website           stewartyoung.co.uk
 ❯ 📬 Email             stewartyoung97@gmail.com
 ❯ 🐦 Twitter           @youngstew_
+❯ 👔 Résumé            https://stewartyoung.co.uk/Stewart_Young_CV.pdf
 ```
-<!-- ❯ 👔 Résumé            https://bit.ly/2Q05ifr -->
+<!--  -->
