@@ -24,7 +24,7 @@ $ npm i @stewartyoung/cli
 _\ \ / / //__   \  /\  /  _  \/ _  \ / /     / \/ \_//\ \_/ / /\  / /_\\
 \__/ \/  \__/    \/  \/\_/ \_/\/ \_/ \/      \_/\___/  \___/\_\ \/\____/
                                                                                                                             
-          Backend Software Engineer • Northern Irish • Cricketer • Drummer and Music Lover
+          Software Engineer • Northern Irish • Cricketer • Drummer and Music Lover
 
 ❯ 🌎 Website           stewartyoung.co.uk
 ❯ 📬 Email             stewartyoung97@gmail.com
